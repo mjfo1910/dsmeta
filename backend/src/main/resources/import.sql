@@ -1,0 +1,18 @@
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Mike Ross',64,'Mocambique',8193.0,'2022-05-02');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Gabriel',3900,'Romenia',10557.0,'2022-04-30');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Patrick',1580,'Mocambique',21601.0,'2022-04-23');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Dona Paulsen',512,'Honduras',7625.0,'2022-04-15');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Rachel Zane',582,'Arabia Saudita',22465.0,'2022-04-10');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Loius Litt',568,'Egito',12595.0,'2022-04-01');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Katrina',275,'Camboja',4636.0,'2022-03-26');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Jessica',525,'Afeganistão',10155.0,'2022-03-20');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('John Cena',142,'Portugal',13610.0,'2022-03-13');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Triple H',831,'Mocambique',15306.0,'2022-03-08');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Undertaker',643,'Venezuela',17460.0,'2022-02-28');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Shaws Michaels',348,'Uruguai',21413.0,'2022-02-23');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Jeff Hard',150,'Honduras',6505.0,'2022-02-26');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Rob-Van-Dam',138,'Kenia',7983.0,'2022-02-06');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Randy Orton',750,'Mocambique',9564.0,'2022-01-28');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Fabiana',162,'Jamaica',7302.0,'2022-01-18');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Carolina',547,'Espanha',9126.0,'2022-01-12');
+INSERT INTO tb_missoes(nome_ofertante,contribuicao,local_missao,total,date) VALUES ('Gabriella',785,'Portugal',5253.0,'2022-01-06');
